@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 import './index.scss';
 import App from './views/App';
 import * as serviceWorker from './serviceWorker';
-import 'materialize-css'
 import { Provider } from 'react-redux'
 import store from  './store'
 
