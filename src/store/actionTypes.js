@@ -1,0 +1,4 @@
+export const CHANGED_INFO = 'CHANGED_INFO';
+export const ADDEDED_TODO = 'ADDEDED_TODO';
+export const TOGGLED_TODO = 'TOGGLED_TODO';
+export const DELETED_TODO = 'DELETED_TODO';
